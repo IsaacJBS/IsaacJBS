@@ -1,10 +1,8 @@
-###Olá, padawan! Meu nome é Isaac, tudo bem? 😄
+<h3>Olá, padawan! Meu nome é Isaac, tudo bem? 😄</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-jbs/)
 
 <hr>
-
-
 
 <img align='+' src="https://github-readme-stats.vercel.app/api?username=IsaacJBS&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
@@ -12,8 +10,7 @@
 
 <hr>
 
-
-###Tecnologias que estudo atualmente
+<h3> Tecnologias que estudo atualmente </h3>
 
 <div style= 'display: inline_block'><br>
 <img align='center' alt= 'html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
@@ -31,3 +28,4 @@ Estudando na Cubos Academy<br/>
 Sou desenvolvedor Full-stack.
 </p>
 <hr>
+

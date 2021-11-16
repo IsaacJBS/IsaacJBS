@@ -25,7 +25,7 @@
 <img align='center' alt= 'Express' src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'>
 <img align='center' alt= 'Postgres' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
 </div>
-<h4>Back-end</h4> 👇🏼
+<h4>Outras tecnologias</h4> 👇🏼
 <div style= 'display: inline_block'><br>
 <img align='center' alt= 'Ubuntu' src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white'> 
 <img align='center' alt= 'Windows' src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'>

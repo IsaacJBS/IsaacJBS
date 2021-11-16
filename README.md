@@ -1,4 +1,4 @@
-<h3>Olá, padawan! Meu nome é Isaac, tudo bem? <img src="https://www.clipartmax.com/png/full/31-312689_bb-8-by-coulden2017dx-on-deviantart-bb8-star-wars-vector.png" width="30px"></h3>
+<h3>Olá, padawan! Meu nome é Isaac, tudo bem? <img src="https://www.clipartmax.com/png/full/31-313009_so-as-i-was-watching-star-wars-star-wars-the-clone-wars.png" width="30px"></h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-jbs/)
 

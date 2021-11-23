@@ -1,5 +1,10 @@
 <h3>Olá, padawan! Meu nome é Isaac, tudo bem? <img src="https://www.clipartmax.com/png/full/31-313022_resistance-by-pointingmonkey-star-wars-rebel-symbol.png" width="30px"></h3>
 
+<p>
+Atualmente faço Desenvolvimento de Software na Cubos Academy<br/>
+Sou um aspirante a desenvolvedor Full-stack.
+</p>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-jbs/)
 
 <hr>
@@ -31,10 +36,3 @@
 <img align='center' alt= 'Windows' src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'>
 </div>
 <hr>
-
-<p>
-Estudando na Cubos Academy<br/>
-Sou desenvolvedor Full-stack.
-</p>
-<hr>
-

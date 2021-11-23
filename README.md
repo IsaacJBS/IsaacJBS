@@ -1,7 +1,7 @@
 <h3>Olá, padawan! Meu nome é Isaac, tudo bem? <img src="https://www.clipartmax.com/png/full/31-313022_resistance-by-pointingmonkey-star-wars-rebel-symbol.png" width="30px"></h3>
 
 <p>
-Atualmente faço Desenvolvimento de Software na Cubos Academy<br/>
+Atualmente faço Desenvolvimento de Software na Cubos Academy.<br/>
 Sou um aspirante a desenvolvedor Full-stack.
 </p>
 

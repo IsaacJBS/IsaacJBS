@@ -1,7 +1,7 @@
 <h3>Olá, padawan! Meu nome é Isaac, tudo bem? <img src="https://www.clipartmax.com/png/full/31-313022_resistance-by-pointingmonkey-star-wars-rebel-symbol.png" width="30px"></h3>
 
 <p>
-📚 Atualmente faço Desenvolvimento de Software na Cubos Academy e Programação de Sistemas no SENAC.<br/>
+📚 Atualmente faço Desenvolvimento de Software na Cubos Academy<br/>
 👨🏽‍🎓 Sou um aspirante a desenvolvedor Full-stack.
 </p>
 
@@ -21,6 +21,7 @@
 <div style= 'display: inline_block'><br>
 <img align='center' alt= 'html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
 <img align='center' alt= 'css' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
+<img align='center' alt= 'sass' src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'>
 <img align='center' alt= 'JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
 <img align='center' alt= 'React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
 </div>

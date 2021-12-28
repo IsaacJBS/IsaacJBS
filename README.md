@@ -1,7 +1,9 @@
-<div align='center'>
+
 <h3>Olá, padawan! Meu nome é Isaac, tudo bem?</h3>
 
+<div align='center'>
 <img src="https://c.tenor.com/7rMJZKO5CYYAAAAC/baby-yoda-hi.gif" width="50%" margin-bottom ='20px'/>
+</div>
 
 <div align='left'> 
     <p>
@@ -44,4 +46,4 @@
 <img align='center' alt= 'Windows' src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'>
 </div>
 <hr>
-</div>
+

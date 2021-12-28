@@ -1,6 +1,6 @@
 <h3>Olá, padawan! Meu nome é Isaac, tudo bem? <img src="https://www.clipartmax.com/png/full/31-313022_resistance-by-pointingmonkey-star-wars-rebel-symbol.png" width="30px"></h3>
 
-<img src="https://c.tenor.com/7rMJZKO5CYYAAAAC/baby-yoda-hi.gif" width="100%" />
+<img src="https://c.tenor.com/7rMJZKO5CYYAAAAC/baby-yoda-hi.gif" width="75%" />
 
 <p>
 📚 Atualmente faço Desenvolvimento de Software na Cubos Academy.<br/>

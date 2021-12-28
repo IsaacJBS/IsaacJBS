@@ -23,8 +23,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Isaac Jordão&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <hr>
-
-<div align = 'center'> 
+ 
     <h3> Tecnologias que estudo atualmente: </h3>
 
     <h4>Front-end</h4>
@@ -49,4 +48,4 @@
     <img align='center' alt= 'Windows' src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'>
     </div>
     <hr>
- </div>
+

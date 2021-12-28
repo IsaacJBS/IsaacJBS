@@ -1,7 +1,7 @@
 <div align='center'>
-<h3>Olá, padawan! Meu nome é Isaac, tudo bem? <img src="https://www.clipartmax.com/png/full/31-313022_resistance-by-pointingmonkey-star-wars-rebel-symbol.png" width="30px"></h3>
+<h3>Olá, padawan! Meu nome é Isaac, tudo bem?</h3>
 
-<img src="https://c.tenor.com/7rMJZKO5CYYAAAAC/baby-yoda-hi.gif" width="50%" />
+<img src="https://c.tenor.com/7rMJZKO5CYYAAAAC/baby-yoda-hi.gif" width="50%" margin-bottom ='20px'/>
 
 <div align='left'> 
     <p>

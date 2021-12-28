@@ -5,6 +5,8 @@
 <img src="https://c.tenor.com/7rMJZKO5CYYAAAAC/baby-yoda-hi.gif" width="50%" margin-bottom ='20px'/>
 </div>
 
+</br>
+
 <div align='left'> 
     <p>
     📚 Atualmente faço Desenvolvimento de Software na Cubos Academy.<br/>

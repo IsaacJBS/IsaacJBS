@@ -10,7 +10,7 @@
 
 <div align='left'> 
     <p>📚 Atualmente faço Desenvolvimento de Software na Cubos Academy.</p>
-    <p>👨🏽‍🎓 Sou desenvolvedor Full-stack apaixonado pelo tecnologia, e pelo que ela pode fazer.</p> 
+    <p>👨🏽‍🎓 Sou desenvolvedor Full Stack apaixonado pelo tecnologia, e pelo que ela pode fazer.</p> 
     <p>📪 Sempre estou disponível para conversas, caso queira falar sobre qualquer coisa - sério, pode ser qualquer coisa mesmo, gosto muito de assuntos aleatórios - , você pode me achar no <a href='https://twitter.com/isaacjbs' target='_blank'>Twitter</a> ou no LinkedIn aqui embaixo!</p>
     <p>💼 Alguns projetos estão disponíveis aqui nos repositórios, futuramente terá um site só pra eles.</p>
 </div>

@@ -3,10 +3,12 @@
 
 <img src="https://c.tenor.com/7rMJZKO5CYYAAAAC/baby-yoda-hi.gif" width="50%" />
 
-<p>
-📚 Atualmente faço Desenvolvimento de Software na Cubos Academy.<br/>
-👨🏽‍🎓 Sou um aspirante a desenvolvedor Full-stack.
-</p>
+<div align='left'> 
+    <p>
+    📚 Atualmente faço Desenvolvimento de Software na Cubos Academy.<br/>
+    👨🏽‍🎓 Sou um aspirante a desenvolvedor Full-stack.
+    </p>
+</div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-jbs/)
 

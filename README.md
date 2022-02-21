@@ -43,7 +43,7 @@
 <img align='center' alt= 'MongoDB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
 <img align='center' alt= 'Docker' src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white'>
 </div>
-<h4>Outras tecnologias</h4>
+<h4>Sistemas Operacionais</h4>
 <div style= 'display: inline_block'><br>
 <img align='center' alt= 'Ubuntu' src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white'> 
 <img align='center' alt= 'Windows' src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'>

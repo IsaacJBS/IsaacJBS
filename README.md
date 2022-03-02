@@ -47,10 +47,10 @@
 </div>
 <h3>🛠️ Meus projetos: </h3>
 <div style='display: inline_block' align='center'><br>
-<a href='https://github.com/IsaacJBS/spaceletter'><img width="46%" src='https://i.imgur.com/TuDiZKW.png' alt= 'spaceletter'></a>
-<a href='https://github.com/IsaacJBS/provihack'><img width="46%" src='https://i.imgur.com/0OP4gl1.png' alt= 'empuxo'></a>
-<a href='https://github.com/IsaacJBS/TODO-List-React'><img width="46%" src='https://i.imgur.com/UIHNcxz.png' alt= 'todo-list'></a>
-<a href='https://github.com/IsaacJBS/desafio-frontend-modulo-2'><img width="46%" src='https://i.imgur.com/eUrsIP6.png' alt= 'cubosflix'></a>
-<a href='https://github.com/IsaacJBS/desafio-1-front-CubosAcademy'><img width="46%" src='https://i.imgur.com/LrOkbLI.jpg' alt= 'portfolio'></a>
-<a href='https://github.com/IsaacJBS/Wildbeast'><img width="46%" src='https://i.imgur.com/cF0CGqQ.jpg' alt= 'wildbeast'></a>
+<a href='https://github.com/IsaacJBS/spaceletter' target="_blank"><img width="46%" src='https://i.imgur.com/TuDiZKW.png' alt= 'spaceletter'></a>
+<a href='https://github.com/IsaacJBS/provihack' target="_blank"><img width="46%" src='https://i.imgur.com/0OP4gl1.png' alt= 'empuxo'></a>
+<a href='https://github.com/IsaacJBS/TODO-List-React' target="_blank"><img width="46%" src='https://i.imgur.com/UIHNcxz.png' alt= 'todo-list'></a>
+<a href='https://github.com/IsaacJBS/desafio-frontend-modulo-2' target="_blank"><img width="46%" src='https://i.imgur.com/eUrsIP6.png' alt= 'cubosflix'></a>
+<a href='https://github.com/IsaacJBS/desafio-1-front-CubosAcademy' target="_blank"><img width="46%" src='https://i.imgur.com/LrOkbLI.jpg' alt= 'portfolio'></a>
+<a href='https://github.com/IsaacJBS/Wildbeast' target="_blank"><img width="46%" src='https://i.imgur.com/cF0CGqQ.jpg' alt= 'wildbeast'></a>
 </div>

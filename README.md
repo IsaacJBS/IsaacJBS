@@ -3,7 +3,7 @@
 </br>
 
 <div align='center'>
-<img src="https://c.tenor.com/7rMJZKO5CYYAAAAC/baby-yoda-hi.gif" width="50%" margin-bottom ='20px'/>
+<img src="https://c.tenor.com/7rMJZKO5CYYAAAAC/baby-yoda-hi.gif" width="30%" margin-bottom ='20px'/>
 </div>
 
 </br>
@@ -12,7 +12,7 @@
     <p>📚 Atualmente faço Desenvolvimento de Software na Cubos Academy.</p>
     <p>👨🏽‍🎓 Sou desenvolvedor Full Stack apaixonado pelo tecnologia, e pelo que ela pode fazer.</p> 
     <p>📪 Sempre estou disponível para conversas, caso queira falar sobre qualquer coisa - sério, pode ser qualquer coisa mesmo, gosto muito de assuntos aleatórios - , você pode me achar no <a href='https://twitter.com/isaacjbs' target='_blank'>Twitter</a> ou no LinkedIn aqui embaixo!</p>
-    <p>💼 Alguns projetos estão disponíveis aqui nos repositórios, futuramente terá um site só pra eles.</p>
+    <p>💼 Alguns projetos estão disponíveis aqui embaixo.</p>
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-jbs/)
@@ -25,7 +25,7 @@
 
 <hr>
  
-<h3>🖥️ Tecnologias que estudo atualmente: </h3>
+<h3>🖥️ Tecnologias que possuo conhecimentos: </h3>
 <div align='center'>
 <h4>Front-end</h4>
 <div style= 'display: inline_block'><br>
@@ -43,10 +43,14 @@
 <img align='center' alt= 'MongoDB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
 <img align='center' alt= 'Docker' src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white'>
 </div>
-<h4>Sistemas Operacionais</h4>
-<div style= 'display: inline_block'><br>
-<img align='center' alt= 'Ubuntu' src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white'> 
-<img align='center' alt= 'Windows' src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'>
-</div>
 <hr>
+</div>
+<h3>🖥️ Meus projetos: </h3>
+<div style='display: inline_block' align='center'><br>
+<a href='https://github.com/IsaacJBS/spaceletter'><img width="46%" src='https://i.imgur.com/TuDiZKW.png' alt= 'spaceletter'></a>
+<a href='https://github.com/IsaacJBS/provihack'><img width="46%" src='https://i.imgur.com/0OP4gl1.png' alt= 'empuxo'></a>
+<a href='https://github.com/IsaacJBS/TODO-List-React'><img width="46%" src='https://i.imgur.com/UIHNcxz.png' alt= 'todo-list'></a>
+<a href='https://github.com/IsaacJBS/desafio-frontend-modulo-2'><img width="46%" src='https://i.imgur.com/eUrsIP6.png' alt= 'cubosflix'></a>
+<a href='https://github.com/IsaacJBS/desafio-1-front-CubosAcademy'><img width="46%" src='https://i.imgur.com/LrOkbLI.jpg' alt= 'portfolio'></a>
+<a href='https://github.com/IsaacJBS/Wildbeast'><img width="46%" src='https://i.imgur.com/cF0CGqQ.jpg' alt= 'wildbeast'></a>
 </div>

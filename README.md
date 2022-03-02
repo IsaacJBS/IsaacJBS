@@ -45,7 +45,7 @@
 </div>
 <hr>
 </div>
-<h3>🖥️ Meus projetos: </h3>
+<h3>🛠️ Meus projetos: </h3>
 <div style='display: inline_block' align='center'><br>
 <a href='https://github.com/IsaacJBS/spaceletter'><img width="46%" src='https://i.imgur.com/TuDiZKW.png' alt= 'spaceletter'></a>
 <a href='https://github.com/IsaacJBS/provihack'><img width="46%" src='https://i.imgur.com/0OP4gl1.png' alt= 'empuxo'></a>

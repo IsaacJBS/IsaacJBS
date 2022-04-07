@@ -13,7 +13,7 @@
     <p>👨🏽‍🎓 Sou desenvolvedor Full Stack apaixonado pelo tecnologia, e pelo que ela pode fazer.</p>
     <p>🥇 Participante do grupo vencedor do ProviHackParaTodos.</p> 
     <p>📪 Sempre estou disponível para conversas, caso queira falar sobre qualquer coisa - sério, pode ser qualquer coisa mesmo, gosto muito de assuntos aleatórios - , você pode me achar no <a href='https://twitter.com/isaacjbs' target='_blank'>Twitter</a> ou no LinkedIn aqui embaixo!</p>
-    <p>💼 Meus principais projetos estão disponíveis aqui embaixo.</p>
+    <p>💼 Clique <a href='https://isaacjbs.github.io/portfolio/'>aqui</a> para conhecer meu portfólio!</p>
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-jbs/)
@@ -44,14 +44,4 @@
 
     
 </div>
-<hr>
-</div>
-<h3>🛠️ Meus projetos: </h3>
-<div style='display: inline_block' align='center'><br>
-<a href='https://github.com/IsaacJBS/spaceletter' target="_blank"><img width="46%" src='https://i.imgur.com/TuDiZKW.png' alt= 'spaceletter'></a>
-<a href='https://github.com/IsaacJBS/provihack' target="_blank"><img width="46%" src='https://i.imgur.com/0OP4gl1.png' alt= 'empuxo'></a>
-<a href='https://github.com/IsaacJBS/TODO-List-React' target="_blank"><img width="46%" src='https://i.imgur.com/UIHNcxz.png' alt= 'todo-list'></a>
-<a href='https://github.com/IsaacJBS/desafio-frontend-modulo-2' target="_blank"><img width="46%" src='https://i.imgur.com/eUrsIP6.png' alt= 'cubosflix'></a>
-<a href='https://github.com/IsaacJBS/desafio-1-front-CubosAcademy' target="_blank"><img width="46%" src='https://i.imgur.com/LrOkbLI.jpg' alt= 'portfolio'></a>
-<a href='https://github.com/IsaacJBS/Wildbeast' target="_blank"><img width="46%" src='https://i.imgur.com/cF0CGqQ.jpg' alt= 'wildbeast'></a>
-</div>
+

@@ -20,7 +20,10 @@
 
 <hr>
 
+<div>
 <img align='+' src="https://github-readme-stats.vercel.app/api?username=IsaacJBS&show_icons=true&title_color=ebc760&text_color=ebc760&icon_color=ebc760&bg_color=050302&cache_seconds=2300">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJBS&layout=compact&langs_count=7&title_color=ebc760&text_color=ebc760&icon_color=ebc760&bg_color=050302"/>
+</div>
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Isaac Jordão&color=050302&style=for-the-badge&logo=GitHub">
 

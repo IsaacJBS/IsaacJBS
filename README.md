@@ -11,7 +11,7 @@
 <div align='left'> 
     <p>📚 Sou formado em Desenvolvimento de Software na Cubos Academy, e atualmente estou estudando TypeScript, NextJS e Docker.</p>
     <p>👨🏽‍🎓 Sou desenvolvedor Full Stack apaixonado pelo tecnologia, e pelo que ela pode fazer.</p>
-    <p>🕵️ No meu tempo livre eu gosto de estudar sobre hacking e pentest.</p>
+    <p>🕵️ No meu tempo livre eu gosto de estudar sobre cibersegurança</p>
     <p>🥇 Participante do grupo vencedor do ProviHackParaTodos.</p> 
     <p>📪 Sempre estou disponível para conversas, caso queira falar sobre qualquer coisa - sério, pode ser qualquer coisa mesmo, gosto muito de assuntos aleatórios - , você pode me achar no <a href='https://twitter.com/isaacjbs' target='_blank'>Twitter</a> ou no LinkedIn aqui embaixo!</p>
     <p>💼 Clique <a href='https://isaacjbs.github.io/portfolio/'>aqui</a> para conhecer meu portfólio!</p>

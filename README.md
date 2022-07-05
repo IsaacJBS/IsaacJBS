@@ -9,13 +9,13 @@
 </br>
 
 <div align='left'> 
-    <p>📚 Sou formado em Desenvolvimento de Software na Cubos Academy, e atualmente estou estudando TypeScript, NextJS e Docker.</p>
+    <p>📚 Sou formado em Desenvolvimento de Software na Cubos Academy, e atualmente estou estudando <strong>TypeScript</strong>, <strong>NextJS</strong> e <strong>Docker</strong>.</p>
     <p>👨🏽‍💻 Residente de software na Cubos Academy.</p>
     <p>👨🏽‍🎓 Sou desenvolvedor Full Stack apaixonado pelo tecnologia, e pelo que ela pode fazer.</p>
     <p>🕵️ No meu tempo livre eu gosto de estudar sobre cibersegurança.</p>
     <p>🥇 Participante do grupo vencedor do ProviHackParaTodos.</p> 
     <p>📪 Sempre estou disponível para conversas, caso queira falar sobre qualquer coisa - sério, pode ser qualquer coisa mesmo, gosto muito de assuntos aleatórios - , você pode me achar no <a href='https://twitter.com/isaacjbs' target='_blank'>Twitter</a> ou no LinkedIn aqui embaixo!</p>
-    <p>💼 Clique <a href='https://isaacjbs.github.io/portfolio/'>aqui</a> para conhecer meu portfólio!</p>
+    <p><strong>💼 Clique <a href='https://isaacjbs.github.io/portfolio/'>aqui</a> para conhecer meu portfólio!</strong></p>
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-jbs/)

@@ -3,7 +3,7 @@
 </br>
 
 <div align='center'>
-<img src="https://c.tenor.com/7rMJZKO5CYYAAAAC/baby-yoda-hi.gif" width="30%" margin-bottom ='20px'/>
+<img src="https://c.tenor.com/7rMJZKO5CYYAAAAC/baby-yoda-hi.gif" width="50%" margin-bottom ='20px'/>
 </div>
 
 </br>

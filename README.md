@@ -10,7 +10,7 @@
 
 <div align='left'> 
     <p>📚 Sou formado em Desenvolvimento de Software na Cubos Academy, e atualmente estou estudando <strong>TypeScript</strong>, <strong>NextJS</strong> e <strong>Docker</strong>.</p>
-    <p>👨🏽‍💻 Residente de software na Cubos Academy.</p>
+    <p>👨🏽‍💻 Ex-residente de software na Cubos Academy.</p>
     <p>👨🏽‍🎓 Sou desenvolvedor Full Stack apaixonado pelo tecnologia, e pelo que ela pode fazer.</p>
     <p>🕵️ No meu tempo livre eu gosto de estudar sobre cibersegurança.</p>
     <p>🥇 Participante do grupo vencedor do ProviHackParaTodos.</p> 

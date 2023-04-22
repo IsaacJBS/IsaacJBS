@@ -1,5 +1,5 @@
 
-<h3>Olá, padawan! Meu nome é Isaac. Tudo bem com você?</h3>
+<h3>Hello, padawan! My name is Isaac. How are you?</h3>
 </br>
 
 <div align='center'>
@@ -9,12 +9,12 @@
 </br>
 
 <div align='left'> 
-    <p>📚 Sou formado em Desenvolvimento de Software na Cubos Academy, e atualmente estou estudando <strong>TypeScript</strong>, <strong>NextJS</strong> e <strong>Redux</strong>.</p>
-    <p>👨🏽‍💻 Ex-residente de software na Cubos Academy e Desenvolvedor de software no Strelo.</p>
+    <p>📚 I graduated in Software Development at Cubos Academy, and am currently doing Systems Analysis and Development at Uninter.</p>
+    <p>👨🏽‍💻 Former Software Resident at Cubos Academy and Full Stack Developer at Strelo.</p>
     <p>🕵️ No meu tempo livre eu gosto de estudar sobre cibersegurança.</p>
-    <p>🥇 Participante do grupo vencedor do ProviHackParaTodos.</p> 
-    <p>📪 Sempre estou disponível para conversas, caso queira falar sobre qualquer coisa - sério, pode ser qualquer coisa mesmo, gosto muito de assuntos aleatórios - , você pode me achar no <a href='https://twitter.com/isaacjbs' target='_blank'>Twitter</a> ou no LinkedIn aqui embaixo!</p>
-    <p><strong>💼 Clique <a href='https://isaacjbs.github.io/portfolio/'>aqui</a> para conhecer meu portfólio!</strong></p>
+    <p>🥇 In my spare time I like to study about cybersecurity.</p> 
+    <p>📪 I am always available for conversation, should you want to talk about anything - seriously, anything at all, I like random topics very much - , you can find me on <a href='https://twitter.com/isaacjbs' target='_blank'>Twitter</a> or on LinkedIn here below!</p>
+    <p><strong>💼 Click <a href='https://isaacjbs.github.io/portfolio/'>here</a> to see my portfolio!</strong></p>
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-jbs/)
@@ -31,7 +31,7 @@
 
 <hr>
  
-<h3>🖥️ Tecnologias que possuo conhecimentos: </h3>
+<h3>🖥️ Technologies that I am knowledgeable in: </h3>
 <div>
 <div><br>
 <img alt= 'html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>

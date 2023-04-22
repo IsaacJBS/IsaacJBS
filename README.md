@@ -12,7 +12,7 @@
     <p>📚 I graduated in Software Development at Cubos Academy, and am currently doing Systems Analysis and Development at Uninter.</p>
     <p>👨🏽‍💻 Former Software Resident at Cubos Academy and Full Stack Developer at Strelo.</p>
     <p>🕵️ In my spare time I like to study about Cybersecurity.</p>
-    <p>🥇 Participant in the winning group of ProviHackParaTodos</p> 
+    <p>🥇 Participant in the winning group of ProviHackParaTodos.</p> 
     <p>📪 I am always available for conversation, should you want to talk about anything - seriously, anything at all, I like random topics very much - , you can find me on <a href='https://twitter.com/isaacjbs' target='_blank'>Twitter</a> or on LinkedIn here below!</p>
     <p><strong>💼 Click <a href='https://isaacjbs.github.io/portfolio/'>here</a> to see my portfolio!</strong></p>
 </div>
